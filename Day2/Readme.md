@@ -1,0 +1,1 @@
+Installing docker setup tools like java nodejs and setuping credentials which include Git_seccred and docker for building image of docker from another another hub and  pull it and push it in my docker hub registry and after run the hostar in local host 
